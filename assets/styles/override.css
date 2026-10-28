@@ -1,0 +1,31 @@
+@font-face {
+    font-family: iran_sens;
+    src: url("../fonts/Anjoman-UltraBold.ttf");
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+*{
+    font-family: iran_sens;
+}
+
+#header {
+    background: #252305;
+    color: #88ff2f;
+}
+
+#site-name {
+    /*background: #0004ff;
+    */
+    border: 1px black solid;
+}
+.main{
+    background-color: #eeeabb;
+}
+
+#content-related{
+    background-color: #ecd2d2;
+    border-radius: 5%;
+    border: 1px black solid;
+}
